@@ -1,2 +1,1 @@
-# New-Test-Repository
-This a test repository
+This is a test repository containing two HTML files of the same nature.
